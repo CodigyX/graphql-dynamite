@@ -83,7 +83,7 @@ WSGI_APPLICATION = 'hackernews.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/3.1/ref/settings/#databases
-
+#Base de datos local
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
